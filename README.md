@@ -49,6 +49,7 @@ res.volcano("tandem")
 - [Python API](#python-api)
 - [Command line](#command-line)
 - [Development](#development)
+- [Citation](#citation)
 
 ## Install
 
@@ -280,5 +281,12 @@ pytest
 
 The tests check the statistics against R limma, statsmodels and SciPy, the site classes on hand-built gene models,
 and the whole pipeline on synthetic experiments with known effects.
+
+## Citation
+
+IsoEnds is a companion tool of IsoForge. The IsoForge manuscript is in preparation. Until it is out, please cite the
+IsoForge repository:
+
+> Elshani M, Zhang Y, Harrison DJ. IsoForge, version 1.0.0. https://github.com/MustafaElshani/IsoForge
 
 IsoEnds is released under the MIT licence.
